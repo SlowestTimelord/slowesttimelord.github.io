@@ -28,9 +28,14 @@ twitter_username: SlowestTimelord
 github_username:  SlowestTimelord
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
+
+# Minimal theme specific settings
+logo: /assets/img/slowesttimelord-logo.png
+show_downloads: true
+google_analytics:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
