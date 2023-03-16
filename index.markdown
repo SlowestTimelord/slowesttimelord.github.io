@@ -22,10 +22,10 @@ title: ""
 - ![Nano](/assets/img/nano.png)[NanoLinks.org](https://nanolinks.org) [![GitHub](assets/img/github.png)](https://github.com/SlowestTimelord/nanolinks)
   - [Media Mentions](https://nanolinks.org/news/)
 
-# #random
+# #farming
 - ![Chia](/assets/img/chia.png) [Chia GPU and CPU plotting options](https://gist.github.com/SlowestTimelord/a2aa4fbca49ce5e3cce37786472b3fd7)
 
-# #thinking
+# #rambling
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ditto. Overlaps with my &quot;Top 10 reasons for being in Chia&quot;<br><br>1) Low energy PoW alternative preserving Nakamoto consensus<br>2) Globally open participation in consensus with low barrier to entry<br>3) Most decentralized blockchain in the world by node count and Nakamoto Coefficient<br>4)… <a href="https://t.co/KCllzX2Wbq">https://t.co/KCllzX2Wbq</a></p>&mdash; SlowestTimelord.xch🌱 (@SlowestTimelord) <a href="https://twitter.com/SlowestTimelord/status/1635749125055447040?ref_src=twsrc%5Etfw">March 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
