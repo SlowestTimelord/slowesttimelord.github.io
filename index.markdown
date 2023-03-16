@@ -3,19 +3,6 @@ layout: home
 title: ""
 ---
 
-<style type="text/css">
-  ul {
-    list-style-type: none;
-  }
-  ul img {
-    margin-right: 5px;
-  }
-  a:hover {
-    font-weight: normal;
-    text-decoration: underline;
-  }
-</style>
-
 # #stacking
 - ![Chia](/assets/img/chia.png) [MintGarden Profile](https://mintgarden.io/profile/7934e962f265b06fa6af8f77d999a166fa1cc095dcc77c6a1e065e008804e22e)
 - ![Chia](/assets/img/chia.png) [SlowestTimelord.xch](https://slowesttimelord.xch.cool/) - ChiaNameService
@@ -38,7 +25,8 @@ title: ""
 # #random
 - ![Chia](/assets/img/chia.png) [Chia GPU and CPU plotting options](https://gist.github.com/SlowestTimelord/a2aa4fbca49ce5e3cce37786472b3fd7)
 
-# #talking
+# #thinking
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ditto. Overlaps with my &quot;Top 10 reasons for being in Chia&quot;<br><br>1) Low energy PoW alternative preserving Nakamoto consensus<br>2) Globally open participation in consensus with low barrier to entry<br>3) Most decentralized blockchain in the world by node count and Nakamoto Coefficient<br>4)… <a href="https://t.co/KCllzX2Wbq">https://t.co/KCllzX2Wbq</a></p>&mdash; SlowestTimelord.xch🌱 (@SlowestTimelord) <a href="https://twitter.com/SlowestTimelord/status/1635749125055447040?ref_src=twsrc%5Etfw">March 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Interesting graph of number of <a href="https://twitter.com/chia_project?ref_src=twsrc%5Etfw">@chia_project</a> full nodes per capita for countries/regions with &gt; 500 nodes (many blockchains don&#39;t even have 500 nodes in total). <a href="https://twitter.com/hashtag/Serbia?src=hash&amp;ref_src=twsrc%5Etfw">#Serbia</a> takes the top spot.<br><br>Chia is by far THE most decentralized blockchain by full node count at over 100,000 <a href="https://t.co/Vn1Xxx7vPR">pic.twitter.com/Vn1Xxx7vPR</a></p>&mdash; SlowestTimelord.xch🌱 (@SlowestTimelord) <a href="https://twitter.com/SlowestTimelord/status/1589096384355266560?ref_src=twsrc%5Etfw">November 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
