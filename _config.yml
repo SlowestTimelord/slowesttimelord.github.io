@@ -35,7 +35,6 @@ plugins:
 # Minimal theme specific settings
 logo: /assets/img/slowesttimelord-logo.jpg
 show_downloads: false
-google_analytics: G-LV6RT2K6XS
 
 # Exclude from processing.
 # The following items will not be processed, by default.
