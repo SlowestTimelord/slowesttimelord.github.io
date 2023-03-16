@@ -21,7 +21,7 @@
 title: Slowest Timelord
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Trying to advance the Chia ecosystem, but too slow to advance the chain.
+  #building at my own pace
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://slowesttimelord.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SlowestTimelord
