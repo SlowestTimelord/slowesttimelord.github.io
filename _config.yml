@@ -21,11 +21,11 @@
 title: SlowestTimelord
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  #building at my own pace
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://slowesttimelord.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SlowestTimelord
 github_username:  SlowestTimelord
+keybase_username: jonawan
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
