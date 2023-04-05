@@ -10,6 +10,7 @@ title: ""
 
 
 # #building
+- ![Chia](/assets/img/chia.png) [XCH.farm](https://xch.farm)
 - ![Chia](/assets/img/chia.png) [ChiaLinks.com](https://chialinks.com) [![GitHub](assets/img/github.png)](https://github.com/Chia-Network/chialinks)
   - [Timeline & Roadmap](https://chialinks.com/roadmap)
   - [Ecosystem Map](https://chialinks.com/ecosystem/)
@@ -21,9 +22,6 @@ title: ""
 - ![Chia](/assets/img/chia.png)[NFTsonChia.com](https://nftsonchia.com) [![GitHub](assets/img/github.png)](https://github.com/SlowestTimelord/nftsonchia)
 - ![Nano](/assets/img/nano.png)[NanoLinks.org](https://nanolinks.org) [![GitHub](assets/img/github.png)](https://github.com/SlowestTimelord/nanolinks)
   - [Media Mentions](https://nanolinks.org/news/)
-
-# #farming
-- ![Chia](/assets/img/chia.png) [Chia GPU and CPU plotting options](https://gist.github.com/SlowestTimelord/a2aa4fbca49ce5e3cce37786472b3fd7)
 
 # #rambling
 
