@@ -10,14 +10,16 @@ title: ""
 
 
 # #building
-- ![Chia](/assets/img/chia.png) [XCH.farm](https://xch.farm)
+- ![Chia](/assets/img/chia.png)[XCH.tools](https://xch.tools) [![GitHub](assets/img/github.png)](https://github.com/SlowestTimelord/xchtools)
+  - ![Chia](/assets/img/chia.png)[XCH.farm](https://xch.farm)
+  - ![Chia](/assets/img/chia.png)[XCH.trade](https://xch.trade)
+  - ![Chia](/assets/img/chia.png)[XCH.builders](https://xch.builders)
 - ![Chia](/assets/img/chia.png) [ChiaLinks.com](https://chialinks.com) [![GitHub](assets/img/github.png)](https://github.com/Chia-Network/chialinks)
   - [Timeline & Roadmap](https://chialinks.com/roadmap)
   - [Ecosystem Map](https://chialinks.com/ecosystem/)
   - [Media Mentions](https://chialinks.com/news/)
   - [CHIP Tracker](https://chialinks.com/chips/)
   - [FAQ and AMA Transcripts](https://chialinks.com/faq/)
-- ![Chia](/assets/img/chia.png)[Chia Dev Tracker](https://dev.chialinks.com)
 - ![Chia](/assets/img/chia.png)[FarmersMarket.cc](https://farmersmarket.cc)
 - ![Chia](/assets/img/chia.png)[NFTsonChia.com](https://nftsonchia.com) [![GitHub](assets/img/github.png)](https://github.com/SlowestTimelord/nftsonchia)
 - ![Nano](/assets/img/nano.png)[NanoLinks.org](https://nanolinks.org) [![GitHub](assets/img/github.png)](https://github.com/SlowestTimelord/nanolinks)
