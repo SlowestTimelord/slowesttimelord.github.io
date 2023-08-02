@@ -14,6 +14,7 @@ title: ""
   - ![Chia](/assets/img/chia.png)[XCH.farm](https://xch.farm)
   - ![Chia](/assets/img/chia.png)[XCH.trade](https://xch.trade)
   - ![Chia](/assets/img/chia.png)[XCH.builders](https://xch.builders)
+  - ![Chia](/assets/img/chia.png)[XCH.fm](https://xch.fm) (Farmers Market)
 - ![Chia](/assets/img/chia.png) [ChiaLinks.com](https://chialinks.com) [![GitHub](assets/img/github.png)](https://github.com/Chia-Network/chialinks)
   - [Timeline & Roadmap](https://chialinks.com/roadmap)
   - [Ecosystem Map](https://chialinks.com/ecosystem/)
